@@ -13,4 +13,4 @@ Este é o meu primeiro projeto no GitHub! É uma calculadora simples desenvolvid
 * Como fazer o upload de projetos para o GitHub.
 
 ## Autor
-Desenvolvido por [Seu Nome/Matheus].
+Desenvolvido por [Matheus].
